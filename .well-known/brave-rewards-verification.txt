@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: codestrix.live
+Token: 264ab570bf8b0a4044561977d569a301d6277662527f94f9ab8b3a4baa1b9ecc
